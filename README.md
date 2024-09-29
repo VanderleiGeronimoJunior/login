@@ -1,4 +1,4 @@
-# CRUD
+# Menu com chamada Login
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/92c1beac-8934-4095-82f0-af67343ea67c/deploy-status)](https://app.netlify.com/sites/transcendent-yeot-2e0134/deploys)
 
@@ -19,16 +19,11 @@
 
 ##  Sobre o Projeto
 
- O Projeto tem como prioridade Conhecer novas maneiras de usar funções e também melhorar meus conhecimentos em CRUD.
- Aprender as rotinas para se construir um CRUD.
-
+ 
 
  <a href="#indice">Indice</a>
 
 ##  Objetivos
-Aprender melhor rotinas de um CRUD.
-Aprender como tratar as rotinas do CRUD, creat, read, update, delete.
-Melorar e Aprender o uso do LocalStorage.
 
 ## Funcionalidades
 
@@ -39,19 +34,14 @@ Melorar e Aprender o uso do LocalStorage.
 📸
 
 #### CRUD com LcalStorage
-<img style="width:300px" src="./img/tela-crud.png" alt="">
-<img style="width:300px" src="./img/modal-cadastro-crud.png" alt="">
-<img style="width:300px" src="./img/crud-com-cadastros.png" alt="">
-
-<img style="width:300px" src="./img/" alt="">
-
+<!-- <img style="width:300px" src="./img/tela-crud.png" alt=""> -->
 
 
  <a href="#indice">Indice</a>
 
 ## Demonstração
 
-[Link Demontração](<a href="https://mini-crud-2024.netlify.app/">mini-crud-2024</a>)
+<!-- [Link Demontração](<a href="https://mini-crud-2024.netlify.app/">mini-crud-2024</a>) -->
 
 
 ## Linguagens utilizadas
@@ -63,14 +53,9 @@ HTML | CSS | JavaScript
 ###  O que eu aprendi
 🤓
 
-- Trabalhar nas rotinas necessárias para o uso do localStorage.
-
-
  <a href="#indice">Indice</a>
 
 ## Melhorias na aplicação
-- Trocar o nome da modal quando estiver Editando.
-- Implementar o dark mode.
 
 
  <a href="#indice">Indice</a>
